@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MarsRoverPhotoApp.Fetcher": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

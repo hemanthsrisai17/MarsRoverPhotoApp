@@ -396,3 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/MarsRoverPhotoApp/MarsRoverPhotoApp.Gallery/ClientApp/.angular/cache

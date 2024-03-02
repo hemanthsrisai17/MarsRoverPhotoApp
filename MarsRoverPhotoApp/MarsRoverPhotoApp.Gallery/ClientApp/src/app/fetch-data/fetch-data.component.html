@@ -1,0 +1,8 @@
+<h1 id="tableLabel">Image Gallery</h1>
+
+
+<p *ngIf="!images"><em>Loading...</em></p>
+
+<div class="gallery" *ngIf="images">
+  <img *ngFor="let imageUrl of images" height="100" width="200" [src]="imageUrl" alt="Mars Rover Image" />
+</div>
